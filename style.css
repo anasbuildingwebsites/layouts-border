@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    padding-right: 129px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+    border-bottom: 5px solid black;
+}
+
+.description {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+.contact {
+    border: 15px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin: 0px;
+}
